@@ -1,7 +1,5 @@
 # March Machine Learning Mania 2024: NCAA Basketball Tournament Outcome Prediction
 
-![March Madness](https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/March_Madness_logo.svg/1200px-March_Madness_logo.svg.png)
-
 *Predicting the outcomes of the 2024 NCAA Men's and Women's Basketball Tournaments using historical data and machine learning techniques.*
 
 ## Project Overview
